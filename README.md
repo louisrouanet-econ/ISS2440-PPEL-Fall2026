@@ -10,7 +10,17 @@
 - PE03 — MWF 11:45 AM-12:35 PM
 - PE04 — MWF 12:50-1:40 PM
 
-All course materials live in this repository; see [ISS2440_Syllabus_Rouanet_Fall2026.pdf](ISS2440_Syllabus_Rouanet_Fall2026.pdf) for policies and grading.
+This repository is the course's home. Every reading and every slide deck lives here, one folder per week. Canvas holds only your grades, quiz results, and assignment submissions — and links back here.
+
+## How this repo works
+
+You do not need a GitHub account; anyone with the link can read and download everything. Each week's folder contains:
+
+- `Required_readings/` — the texts your quizzes draw on
+- `Optional_readings/` — read more if the week's topic grabs you
+- `DEADLINES.md`, plus slides once they are posted
+
+To download one file, click its name, then the download button (the arrow near the top right). To download the whole repository, click the green **Code** button and choose **Download ZIP**.
 
 ## Weekly schedule
 
@@ -34,4 +44,4 @@ All course materials live in this repository; see [ISS2440_Syllabus_Rouanet_Fall
 
 **Exams:** Midterm 1 Mon Sep 14 — Midterm 2 Mon Oct 26 — Final exam Dec 5-11 (Registrar-assigned time).
 
-Each week folder contains `Required_readings/`, `Optional_readings/`, `DEADLINES.md`, and slides when available.
+For all policies and grading, see [ISS2440_Syllabus_Rouanet_Fall2026.pdf](ISS2440_Syllabus_Rouanet_Fall2026.pdf).
