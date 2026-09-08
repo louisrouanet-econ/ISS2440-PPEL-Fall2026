@@ -34,7 +34,7 @@ For slides, use the **Slides** links in the schedule below — they open straigh
 | [Week 04](Week_04_Property_Rights/) | Sep 9-11 | Property rights | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_04_Property_Rights/Week04_Property_Rights_slides.pdf) | Quiz 3: Fri Sep 11; No class Mon Sep 7 (Labor Day) |
 | [Week 05](Week_05_State_of_Nature/) | Sep 14-18 | Anarchy I: the state of nature and introduction to game theory | — | Midterm 1 (Part I): Mon Sep 14; AI Dialogue 1 due: Fri Sep 18 |
 | [Week 06](Week_06_Is_Anarchy_So_Bad/) | Sep 21-25 | Anarchy II: is anarchy so bad? | — | Quiz 4: Fri Sep 25 |
-| [Week 07](Week_07_Limits_of_Anarchy_Origins_of_State/) | Sep 28 - Oct 2 | The limits of anarchy and the origins of the state | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_07_Limits_of_Anarchy_Origins_of_State/buchanan_limits_slides.pdf) | Quiz 5: Fri Oct 2 |
+| [Week 07](Week_07_Limits_of_Anarchy_Origins_of_State/) | Sep 28 - Oct 2 | The limits of anarchy and the origins of the state | — | Quiz 5: Fri Oct 2 |
 | [Week 08](Week_08_General_Will_and_Voting_Paradoxes/) | Oct 5-7 | The general will and the paradoxes of voting | — | Quiz 6: Wed Oct 7; No class Fri Oct 9 (Homecoming) |
 | [Week 09](Week_09_Constitutional_Choice/) | Oct 12-16 | Constitutional choice | — | Quiz 7: Fri Oct 16; AI Dialogue 2 due: Fri Oct 16 |
 | [Week 10](Week_10_Median_Voter_and_Democratic_Failures/) | Oct 19-23 | The median voter theorem and democratic failures | — | Quiz 8: Fri Oct 23 |
