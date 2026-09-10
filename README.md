@@ -10,6 +10,8 @@
 - PE03 — MWF 11:45 AM-12:35 PM
 - PE04 — MWF 12:50-1:40 PM
 
+**Syllabus:** [ISS2440_Syllabus_Rouanet_Fall2026.pdf](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_Syllabus_Rouanet_Fall2026.pdf) (policies, grading, full schedule)
+
 This repository is the course's home. Every reading and every slide deck lives here, one folder per week. Canvas holds only your grades, quiz results, and assignment submissions — and links back here.
 
 ## How this repo works
@@ -32,7 +34,7 @@ For slides, use the **Slides** links in the schedule below — they open straigh
 | [Week 02](Week_02_Economic_Way_of_Thinking/) | Aug 24-28 | The economic way of thinking | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_02_Economic_Way_of_Thinking/Week02_Economic_Way_of_Thinking_slides.pdf) | Quiz 1: Fri Aug 28 |
 | [Week 03](Week_03_Division_of_Labor/) | Aug 31 - Sep 4 | The division of labor and the Ricardian law of association | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_03_Division_of_Labor/Week03_Division_of_Labor_slides.pdf) | Quiz 2: Fri Sep 4 |
 | [Week 04](Week_04_Property_Rights/) | Sep 9-11 | Property rights | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_04_Property_Rights/Week04_Property_Rights_slides.pdf) | Quiz 3: Fri Sep 11; No class Mon Sep 7 (Labor Day) |
-| [Week 05](Week_05_State_of_Nature/) | Sep 14-18 | Anarchy I: the state of nature and introduction to game theory | — | Midterm 1 (Part I): Mon Sep 14; AI Dialogue 1 due: Fri Sep 18 |
+| [Week 05](Week_05_State_of_Nature/) | Sep 14-18 | Anarchy I: the state of nature and introduction to game theory | — | Midterm 1 (Part I): Mon Sep 14 — [Study guide](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_05_State_of_Nature/ISS2440_Midterm1_Study_Guide.pdf); AI Dialogue 1 due: Fri Sep 18 |
 | [Week 06](Week_06_Is_Anarchy_So_Bad/) | Sep 21-25 | Anarchy II: is anarchy so bad? | — | Quiz 4: Fri Sep 25 |
 | [Week 07](Week_07_Limits_of_Anarchy_Origins_of_State/) | Sep 28 - Oct 2 | The limits of anarchy and the origins of the state | — | Quiz 5: Fri Oct 2 |
 | [Week 08](Week_08_General_Will_and_Voting_Paradoxes/) | Oct 5-7 | The general will and the paradoxes of voting | — | Quiz 6: Wed Oct 7; No class Fri Oct 9 (Homecoming) |
@@ -44,6 +46,6 @@ For slides, use the **Slides** links in the schedule below — they open straigh
 | [Week 14](Week_14_Social_Justice/) | Nov 16-18 | Social justice and its critics | — | Quiz 11: Wed Nov 18; No class Fri Nov 20 (SEA conference) |
 | [Week 15](Week_15_Applied_Debate/) | Nov 30 - Dec 2 | A current debate, the class chooses one: (a) Is there a duty to vote? (b) A market for organs? (c) A market for citizenship? | — | Quiz 12: Mon Nov 30; Final exam (Part IV + debate): Dec 5-11, Registrar-assigned time; Thanksgiving break Nov 23-27 precedes this week |
 
-**Exams:** Midterm 1 Mon Sep 14 — Midterm 2 Mon Oct 26 — Final exam Dec 5-11 (Registrar-assigned time).
+**Exams:** Midterm 1 Mon Sep 14 ([study guide](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_05_State_of_Nature/ISS2440_Midterm1_Study_Guide.pdf)) — Midterm 2 Mon Oct 26 — Final exam Dec 5-11 (Registrar-assigned time).
 
 For all policies and grading, see the [syllabus](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_Syllabus_Rouanet_Fall2026.pdf).
