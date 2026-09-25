@@ -14,6 +14,8 @@
 
 **AI Reading Dialogues:** [Instructions](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_AI_Dialogue_Instructions.pdf) — email your transcript to [louisrouanetecon@gmail.com](mailto:louisrouanetecon@gmail.com) (not Canvas) by 11:59 pm on the due date.
 
+**Lecture notes:** You can find the lecture notes here: [Week 06](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Lecture_notes/Week06_Is_Anarchy_So_Bad_lecture_notes.pdf).
+
 This repository is the course's home. Every reading and every slide deck lives here, one folder per week. Canvas holds only your grades and quiz results — and links back here.
 
 ## How this repo works
