@@ -10,6 +10,8 @@
 - PE03 — MWF 11:45 AM-12:35 PM
 - PE04 — MWF 12:50-1:40 PM
 
+**Week 12 schedule update:** Quiz 9 will be held on **Wednesday, November 4**. **Both sections (PE03 and PE04) are canceled on Friday, November 6.** This update supersedes the Week 12 schedule in the original syllabus.
+
 **Syllabus:** [ISS2440_Syllabus_Rouanet_Fall2026.pdf](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_Syllabus_Rouanet_Fall2026.pdf) (policies, grading, full schedule)
 
 **AI Reading Dialogues:** [Instructions](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_AI_Dialogue_Instructions.pdf) — email your transcript to [louisrouanetecon@gmail.com](mailto:louisrouanetecon@gmail.com) (not Canvas) by 11:59 pm on the due date.
@@ -47,7 +49,7 @@ For slides, use the **Slides** links in the schedule below — they open straigh
 | [Week 09](Week_09_Constitutional_Choice/) | Oct 12-16 | Constitutional choice | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_09_Constitutional_Choice/Week09_Constitutional_Choice_slides.pdf) | Wed: [Constitutional Choice](https://youtu.be/iTYUrxeVeaw)<br>Fri: [Constitutional Choice: Applications](https://youtu.be/GoEFNAXTmXQ) | Quiz 7: Fri Oct 16; AI Dialogue 2 due: Fri Oct 16, 11:59 pm ([instructions](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_AI_Dialogue_Instructions.pdf)) |
 | [Week 10](Week_10_Median_Voter_and_Democratic_Failures/) | Oct 19-23 | The median voter theorem and democratic failures | [Slides](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_10_Median_Voter_and_Democratic_Failures/Week10_Median_Voter_and_Democratic_Failures_slides.pdf) | Mon: [Median voter theorem](https://youtu.be/Irxy8rHRy-A)<br>Wed: [What the Median Voter Chooses](https://youtu.be/2tR0_rxx2Yk)<br>Fri: [The Logic of Collective Action](https://youtu.be/MIUgsbDDR60)<br>Fri: [Rent Seeking](https://youtu.be/bJHeAo806_8) | Quiz 8: Fri Oct 23 |
 | [Week 11](Week_11_Marx_I/) | Oct 26-30 | Marx and the socialist critique I | — | — | Midterm 2 (Parts II-III): Mon Oct 26 — [Study guide](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/Week_11_Marx_I/ISS2440_Midterm2_Study_Guide.pdf); AI Dialogue 3 due: Fri Oct 30, 11:59 pm ([instructions](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_AI_Dialogue_Instructions.pdf)) |
-| [Week 12](Week_12_Marx_II/) | Nov 2-6 | Marx and the socialist critique II | — | — | Quiz 9: Fri Nov 6 |
+| [Week 12](Week_12_Marx_II/) | Nov 2-4 | Marx and the socialist critique II | — | — | Quiz 9: Wed Nov 4; No class Fri Nov 6 (both sections: PE03 and PE04) |
 | [Week 13](Week_13_Knowledge_and_Central_Planning/) | Nov 9-13 | Entrepreneurship, central planning, and the use of knowledge in society | — | — | Quiz 10: Fri Nov 13; AI Dialogue 4 due: Fri Nov 13, 11:59 pm ([instructions](https://louisrouanet-econ.github.io/ISS2440-PPEL-Fall2026/ISS2440_AI_Dialogue_Instructions.pdf)); No class Wed Nov 11 (Veterans Day) |
 | [Week 14](Week_14_Social_Justice/) | Nov 16-18 | Social justice and its critics | — | — | Quiz 11: Wed Nov 18; No class Fri Nov 20 (SEA conference) |
 | [Week 15](Week_15_Applied_Debate/) | Nov 30 - Dec 2 | A current debate, the class chooses one: (a) Is there a duty to vote? (b) A market for organs? (c) A market for citizenship? | — | — | Quiz 12: Mon Nov 30; Final exam (Part IV + debate): Dec 5-11, Registrar-assigned time; Thanksgiving break Nov 23-27 precedes this week |
